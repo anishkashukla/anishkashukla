@@ -11,18 +11,18 @@
 <br />
 <br />
 
-Hi, I'm Anishka Shukla, a Web Developer , Ethical Hacker and Website Pentester 🚀 from India, currently studying at <a href ="http://kiit.ac.in/">KIIT University</a>
+Hi, I'm Anishka Shukla, a Web Developer , Ethical Hacker and Pentester 🚀 from India, currently studying at <a href ="http://kiit.ac.in/">KIIT University</a>
 
-Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listening music 🎧 , riding bike and traveling :bike: 🏝️ 
+Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listening to music 🎧 , riding bike and traveling :bike: 🏝️ 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working on a few web pentesting project 
-- 🌱 I’m currently a bug hunter 
-- 👯 I’m looking to collaborate on Website penetration Testing projects or web developemnt projects
-- 💬 Ask me about Web Development , Ethical Hacking and Technology in general.
+- 🔭 I’m currently working on a few web pentesting projects 
+- 🌱 I’m currently a bug hunter and pentester
+- 👯 I’m looking to collaborate on Website Penetration Testing Projects or Web Development Projects
+- 💬 Ask me about Web Development , Ethical Hacking , Cyber Security and Technology in general.
 - 📫 How to reach me: <a href="mailto:anishkashukla@gmail.com">anishkashukla@gmail.com</a>
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
 
