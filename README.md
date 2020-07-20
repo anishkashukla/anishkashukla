@@ -1,4 +1,4 @@
-# Hi there 👋 I'm <a href="https://github.com/anishkashukla">Anishka Shukla</a>
+# Hi there 👋 I'm <a href="https://github.com/anishkashukla">Anishka </a>
 <a href="https://twitter.com/AnishkaShukla">
   <img align="left" alt=" Anishka Shukla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -25,7 +25,6 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 - 💬 Ask me about Web Development , Ethical Hacking , Cyber Security and Technology in general.
 - 📫 How to reach me: <a href="mailto:anishkashukla@gmail.com">anishkashukla@gmail.com</a>
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
-
 &nbsp;
 <br>
 <br>
@@ -39,7 +38,9 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
 > No one has ever changed the world by doing what the world has told them to do
+
 
 ![Anishka's github stats](https://github-readme-stats.vercel.app/api?username=anishkashukla&show_icons=true&hide_border=true)
 
