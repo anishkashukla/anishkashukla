@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Anishka Shukla, a Web Developer , Ethical Hacker and Website Pentester 🚀 from India, currently a IT Junior at <a href ="http://kiit.ac.in/">KIIT University</a>
+Hi, I'm Anishka Shukla, a Web Developer , Ethical Hacker and Website Pentester 🚀 from India, currently studying at <a href ="http://kiit.ac.in/">KIIT University</a>
 
 Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listening music 🎧 , riding bike and traveling :bike: 🏝️ 
 
