@@ -19,8 +19,9 @@ Beside's developing stuff and hacking , I enjoy playing guitar, listening music 
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working on a few web pentesting project
+- 🔭 I’m currently working on a few web pentesting project 
 - 🌱 I’m currently a bug hunter 
+- 👯 I’m looking to collaborate on Website penetration Testing projects or web developemnt projects
 - 💬 Ask me about Web Development , Ethical Hacking and Technology in general.
 - 📫 How to reach me: <a href="mailto:anishkashukla@gmail.com">anishkashukla@gmail.com</a>
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
@@ -32,7 +33,6 @@ Beside's developing stuff and hacking , I enjoy playing guitar, listening music 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
