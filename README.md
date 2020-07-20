@@ -40,6 +40,8 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 
 ![Anishka's github stats](https://github-readme-stats.vercel.app/api?username=anishkashukla&show_icons=true&hide_border=true)
 
+:pushpin: Liked this introduction, You can also make a similar one for yourself. Star and Fork this [README](https://github.com/anishkashukla/anishkashukla) :pencil:
+
 
 
 
