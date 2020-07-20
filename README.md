@@ -1,4 +1,4 @@
-##### Hi there 👋 I'm <a href="https://github.com/anishkashukla">Anishka Shukla</a>
+# Hi there 👋 I'm <a href="https://github.com/anishkashukla">Anishka Shukla</a>
 <a href="https://twitter.com/AnishkaShukla">
   <img align="left" alt=" Anishka Shukla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
