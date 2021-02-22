@@ -32,7 +32,6 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 <br>
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -46,6 +45,19 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 
 
 ![Anishka's github stats](https://github-readme-stats.vercel.app/api?username=anishkashukla&show_icons=true&hide_border=true)
+
+</samp><br>
+
+[![Portfolio](https://img.shields.io/badge/-Mr.SAGE-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://anishkashukla.com)
+[![AS Security](https://img.shields.io/badge/-AS Security-11c28a?style=flat&logo=powershell&logoColor=white)](https://theassecurity.github.io)
+[![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/_anishkashukla_)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/anishkashukla)
+[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/anishkashukla)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anishkashukla)
+[![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5-rod7DAnKByoZmFjNZ4vg)
+[![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://www.hackthebox.eu/profile/109229)
+[![THM](https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white)](https://tryhackme.com/p/AnishkaShukla)
+
 
 :pushpin: Liked this introduction, You can also make a similar one for yourself. Star and Fork this [README](https://github.com/anishkashukla/anishkashukla) :pencil:
 
