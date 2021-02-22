@@ -48,7 +48,6 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 
 </samp><br>
 
-[![Portfolio](https://img.shields.io/badge/-Anishka Shukla-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://anishkashukla.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/_anishkashukla_)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/anishkashukla)
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/anishkashukla)
