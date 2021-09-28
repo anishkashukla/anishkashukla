@@ -21,8 +21,8 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 
 - 🔭 I’m currently working on a few web pentesting projects 
 - 🌱 I’m currently a bug hunter and pentester
-- 👯 I’m looking to collaborate on Website Penetration Testing Projects or Web Development Projects
-- 💬 Ask me about Web Development , Ethical Hacking , Cyber Security and Technology in general.
+- 👯 I’m looking to collaborate on Website Penetration Testing Projects, Bug Bounty Hunting or maybse on some other good projects
+- 💬 Ask me about Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.
 - 📫 How to reach me: <a href="mailto:anishkashukla@gmail.com">anishkashukla@gmail.com</a>
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
 
