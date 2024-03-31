@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Anishka Shukla, an Ethical Hacker , Pentester , Bug Bounty Hunter , Web Developer , Trainer , Blogger and Youtuber  🚀 from India, currently studying at <a href ="http://kiit.ac.in/">KIIT University</a>
+Hi, I'm Anishka Shukla, an Ethical Hacker , Pentester , Bug Bounty Hunter  🚀 from India, currently working at <a href ="https://www.netsentries.com">Netsentries</a>
 
 Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listening to music 🎧 , riding bike , playing games and travelling :bike: 🏝️ 
 
