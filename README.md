@@ -19,7 +19,6 @@ Besides developing stuff and hacking , I enjoy playing guitar :guitar: , listeni
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working on a few web pentesting projects 
 - 🌱 I’m currently a bug hunter and pentester
 - 👯 I’m looking to collaborate on Website Penetration Testing Projects, Bug Bounty Hunting or maybe on some other good projects
 - 💬 Ask me about Ethical Hacking , Cyber Security , Pentesting , Bug Bounty and Technology in general.
